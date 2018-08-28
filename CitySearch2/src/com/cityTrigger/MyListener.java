@@ -5,7 +5,7 @@ import java.sql.*;
 public class MyListener implements ServletContextListener{
 
 	public void contextInitialized(ServletContextEvent arg0) {
-		
+		//mruna 
 		Connection con=null;
 	try{
 	
